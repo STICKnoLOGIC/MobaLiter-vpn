@@ -1,3 +1,5 @@
+\[data-custom-class='body'\], \[data-custom-class='body'\] * { background: transparent !important; } \[data-custom-class='title'\], \[data-custom-class='title'\] * { font-family: Arial !important; font-size: 26px !important; color: #000000 !important; } \[data-custom-class='subtitle'\], \[data-custom-class='subtitle'\] * { font-family: Arial !important; color: #595959 !important; font-size: 14px !important; } \[data-custom-class='heading\_1'\], \[data-custom-class='heading\_1'\] * { font-family: Arial !important; font-size: 19px !important; color: #000000 !important; } \[data-custom-class='heading\_2'\], \[data-custom-class='heading\_2'\] * { font-family: Arial !important; font-size: 17px !important; color: #000000 !important; } \[data-custom-class='body\_text'\], \[data-custom-class='body\_text'\] * { color: #595959 !important; font-size: 14px !important; font-family: Arial !important; } \[data-custom-class='link'\], \[data-custom-class='link'\] * { color: #3030F1 !important; font-size: 14px !important; font-family: Arial !important; word-break: break-word !important; }
+
 **PRIVACY NOTICE**
 
   
@@ -12,11 +14,11 @@
 
 This privacy notice for STICKnoLOGIC LLC (doing business as STICKnoLOGIC) ("**STICKnoLOGIC**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-*   Download and use our mobile application (MobaLiter:vpn), or any other application of ours that links to this privacy notice
+* Download and use our mobile application (MobaLiter:vpn), or any other application of ours that links to this privacy notice
 
-*   Engage with us in other related ways, including any sales, marketing, or events
+* Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@STICKnoLOGIC.com.
+**Questions or concerns? **Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@STICKnoLOGIC.com.
 
   
 
@@ -26,7 +28,7 @@ This privacy notice for STICKnoLOGIC LLC (doing business as STICKnoLOGIC) ("**ST
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our_** [**_table of contents_**](#toc) **_below to find the section you are looking for._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _**[**_table of contents_**](#toc)**_ below to find the section you are looking for._**
 
   
 
@@ -106,7 +108,7 @@ Want to learn more about what STICKnoLOGIC does with any information we collect?
 
   
 
-**_In Short:_** _We collect personal information that you provide to us._
+**_In Short:_**_We collect personal information that you provide to us._
 
   
 
@@ -124,11 +126,11 @@ We collect personal information that you voluntarily provide to us when you expr
 
 **Application Data.** If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 
-*   _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's storage, vpn, internet, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+* _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's storage, vpn, internet, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
-*   _Mobile Device Data._ We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
+* _Mobile Device Data._ We automatically collect device information (such as your mobile device ID, model, and manufacturer), operating system, version information and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our application(s), we may also collect information about the phone network associated with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID, and information about the features of our application(s) you accessed.
 
-*   _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+* _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
 This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
@@ -142,7 +144,7 @@ All personal information that you provide to us must be true, complete, and accu
 
   
 
-**_In Short:_** _Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services._
+**_In Short:_**_Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services._
 
   
 
@@ -152,33 +154,33 @@ We automatically collect certain information when you visit, use, or navigate th
 
 The information we collect includes:
 
-*   _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
+* _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services(such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
 
-*   _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
+* _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
 **2\. HOW DO WE PROCESS YOUR INFORMATION?**
 
   
 
-**_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
+**_In Short: _**_We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
   
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
 
-*   **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
+* **To deliver and facilitate delivery of services to the user. **We may process your information to provide you with the requested service.
 
-*   **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
+* **To respond to user inquiries/offer support to users. **We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
 
-*   **To send administrative information to you.** We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
+* **To send administrative information to you. **We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
 
-*   **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
+* **To request feedback. **We may process your information when necessary to request feedback and to contact you about your use of our Services.
 
-*   **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
+* **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
 
-*   **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
+* **To protect our Services.** We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
 
-*   **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+* **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
   
 
@@ -186,7 +188,7 @@ The information we collect includes:
 
   
 
-_**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
+_**In Short: **We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
 
   
 
@@ -196,22 +198,22 @@ _**If you are located in the EU or UK, this section applies to you.**_
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
+* **Consent. **We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
 
-*   **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
+* **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 
-*   **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
+* **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
 
-*   Develop and display personalized and relevant advertising content for our users
+* Develop and display personalized and relevant advertising content for our users
 
-*   Diagnose problems and/or prevent fraudulent activities
+* Diagnose problems and/or prevent fraudulent activities
 
-*   Understand how our users use our products and services so we can improve user experience
+* Understand how our users use our products and services so we can improve user experience
 
-*   **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
+* **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
     
 
-*   **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+* **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
   
 
@@ -225,27 +227,27 @@ We may process your information if you have given us specific permission (i.e., 
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 
-*   If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
+* If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
 
-*   For investigations and fraud detection and prevention
+* For investigations and fraud detection and prevention
 
-*   For business transactions provided certain conditions are met
+* For business transactions provided certain conditions are met
 
-*   If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
+* If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
 
-*   For identifying injured, ill, or deceased persons and communicating with next of kin
+* For identifying injured, ill, or deceased persons and communicating with next of kin
 
-*   If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
+* If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
 
-*   If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
+* If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
 
-*   If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
+* If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
 
-*   If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
+* If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
 
-*   If the collection is solely for journalistic, artistic, or literary purposes
+* If the collection is solely for journalistic, artistic, or literary purposes
 
-*   If the information is publicly available and is specified by the regulations
+* If the information is publicly available and is specified by the regulations
 
   
 
@@ -253,23 +255,23 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
   
 
-**_In Short:_** _We may share information in specific situations described in this section and/or with the following categories of third parties._
+**_In Short:_**_ We may share information in specific situations described in this section and/or with the following categories of third parties._
 
   
 
 **Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents ("**third parties**") who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct. The categories of third parties we may share personal information with are as follows:
 
-*   Ad Networks
+* Ad Networks
 
-*   Payment Processors
+* Payment Processors
 
   
 
 We also may need to share your personal information in the following situations:
 
-*   **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+* **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
-*   **Offer Wall.** Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
+* **Offer Wall. **Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
   
 
@@ -277,7 +279,7 @@ We also may need to share your personal information in the following situations:
 
   
 
-**_In Short:_** _We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services._
+**_In Short:_**_ We are not responsible for the safety of any information that you share with third parties that we may link to or who advertise on our Services, but are not affiliated with, our Services._
 
   
 
@@ -289,7 +291,7 @@ The Services, including our offer wall, may link to third-party websites, online
 
   
 
-**_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+**_In Short: _**_We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
 
   
 
@@ -305,7 +307,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
   
 
-**_In Short:_** _In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time._
+**_In Short:_**_ In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information.You may review, change, or terminate your account at any time._
 
   
 
@@ -347,7 +349,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
   
 
-**_In Short:_** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
+**_In Short: _**_Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
 
   
 
@@ -389,137 +391,31 @@ We have collected the following categories of personal information in the past t
 
   
 
-**Category**
-
-**Examples**
-
-**Collected**
-
-A. Identifiers
-
-Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
-
-  
-
-NO
-
-  
-
-B. Personal information categories listed in the California Customer Records statute
-
-Name, contact information, education, employment, employment history, and financial information
-
-  
-
-NO
-
-  
-
-C. Protected classification characteristics under California or federal law
-
-Gender and date of birth
-
-  
-
-NO
-
-  
-
-D. Commercial information
-
-Transaction information, purchase history, financial details, and payment information
-
-  
-
-NO
-
-  
-
-E. Biometric information
-
-Fingerprints and voiceprints
-
-  
-
-NO
-
-  
-
-F. Internet or other similar network activity
-
-Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
-
-  
-
-NO
-
-  
-
-G. Geolocation data
-
-Device location
-
-  
-
-NO
-
-  
-
-H. Audio, electronic, visual, thermal, olfactory, or similar information
-
-Images and audio, video or call recordings created in connection with our business activities
-
-  
-
-NO
-
-  
-
-I. Professional or employment-related information
-
-Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
-
-  
-
-NO
-
-  
-
-J. Education Information
-
-Student records and directory information
-
-  
-
-NO
-
-  
-
-K. Inferences drawn from other personal information
-
-Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
-
-  
-
-NO
-
-  
-
-L. Sensitive Personal Information
-
-  
-
-NO
+|     |     |     |
+| --- | --- | --- |
+| **Category** | **Examples** | **Collected** |
+| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO  |
+| B. Personal information categories listed in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO  |
+| C. Protected classification characteristics under California or federal law | Gender and date of birth | NO  |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO  |
+| E. Biometric information | Fingerprints and voiceprints | NO  |
+| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO  |
+| G. Geolocation data | Device location | NO  |
+| H. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO  |
+| I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO  |
+| J. Education Information | Student records and directory information | NO  |
+| K. Inferences drawn from other personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | NO  |
+| L. Sensitive Personal Information |     | NO  |
 
   
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
 
-*   Receiving help through our customer support channels;
+* Receiving help through our customer support channels;
 
-*   Participation in customer surveys or contests; and
+* Participation in customer surveys or contests; and
 
-*   Facilitation in the delivery of our Services and to respond to your inquiries.
+* Facilitation in the delivery of our Services and to respond to your inquiries.
 
 **How do we use and share your personal information?**
 
@@ -563,13 +459,13 @@ STICKnoLOGIC LLC has sold or shared the following categories of personal inform
 
 The categories of third parties to whom we sold personal information are:
 
-*   Ad Networks
+* Ad Networks
 
   
 
 The categories of third parties to whom we shared personal information with are:
 
-*   Ad Networks
+* Ad Networks
 
   
 
@@ -591,21 +487,21 @@ Right to be informed — Request to know
 
 Depending on the circumstances, you have a right to know:
 
-*   whether we collect and use your personal information;
+* whether we collect and use your personal information;
 
-*   the categories of personal information that we collect;
+* the categories of personal information that we collect;
 
-*   the purposes for which the collected personal information is used;
+* the purposes for which the collected personal information is used;
 
-*   whether we sell or share personal information to third parties;
+* whether we sell or share personal information to third parties;
 
-*   the categories of personal information that we sold, shared, or disclosed for a business purpose;
+* the categories of personal information that we sold, shared, or disclosed for a business purpose;
 
-*   the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
+* the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
 
-*   the business or commercial purpose for collecting, selling, or sharing personal information; and
+* the business or commercial purpose for collecting, selling, or sharing personal information; and
 
-*   the specific pieces of personal information we collected about you.
+* the specific pieces of personal information we collected about you.
 
 In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
 
@@ -641,11 +537,11 @@ We will only use personal information provided in your request to verify your id
 
 Other privacy rights
 
-*   You may object to the processing of your personal information.
+* You may object to the processing of your personal information.
 
-*   You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
+* You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
 
-*   You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
+* You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 
 To exercise these rights, you can contact us  by visiting website [http://www.github.com/STICKnoLOGIC](http://www.github.com/STICKnoLOGIC), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
@@ -685,25 +581,25 @@ If this definition "consumer" applies to you, we must adhere to certain rights a
 
 The information we collect, use, and disclose about you will vary depending on how you interact with STICKnoLOGIC LLC and our Services. To find out more, please visit the following links:
 
-*   [Personal data we collect](#infocollect)
+* [Personal data we collect](#infocollect)
 
-*   [How we use your personal data](#infouse)
+* [How we use your personal data](#infouse)
 
-*   [When and with whom we share your personal data](#whoshare)
+* [When and with whom we share your personal data](#whoshare)
 
 Your rights with respect to your personal data
 
-*   Right to be informed whether or not we are processing your personal data
+* Right to be informed whether or not we are processing your personal data
 
-*   Right to access your personal data
+* Right to access your personal data
 
-*   Right to correct inaccuracies in your personal data
+* Right to correct inaccuracies in your personal data
 
-*   Right to request deletion of your personal data
+* Right to request deletion of your personal data
 
-*   Right to obtain a copy of the personal data you previously shared with us
+* Right to obtain a copy of the personal data you previously shared with us
 
-*   Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+* Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
 STICKnoLOGIC LLC has not sold any personal data to third parties for business or commercial purposes. STICKnoLOGIC LLC will not sell personal data in the future belonging to website visitors, users, and other consumers.
 
@@ -741,7 +637,7 @@ Right to appeal
 
   
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at support@no\_way.sbs. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at support@no_way.sbs. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
   
 
@@ -749,7 +645,7 @@ If we decline to take action regarding your request, we will inform you of our d
 
   
 
-_**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
+_**In Short: **Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
   
 
@@ -778,3 +674,7 @@ STICKnoLOGIC LLC
   
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/ce247dcc-7f0f-4823-aa73-14ca41ed5c26).
+
+ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
+
+//This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
