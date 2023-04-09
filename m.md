@@ -26,23 +26,27 @@ This privacy notice for STICKnoLOGIC LLC (doing business as STICKnoLOGIC) ("**ST
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _**[**_table of contents_**](#table-of-content)**_ below to find the section you are looking for._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _**[**_table of contents_**](#table-of-contents)**_ below to find the section you are looking for._**
 
   
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with STICKnoLOGIC and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
+**What personal information do we process?**
+When you visit, use, or navigate our Services, we may process personal information depending on how you interact with STICKnoLOGIC and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
 
   
 
-**Do we process any sensitive personal information?** We do not process sensitive personal information.
+**Do we process any sensitive personal information?** 
+We do not process sensitive personal information.
 
   
 
-**Do we receive any information from third parties?** We do not receive any information from third parties.
+**Do we receive any information from third parties?** 
+We do not receive any information from third parties.
 
   
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#infouse).
+**How do we process your information?**
+We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#infouse).
 
   
 
@@ -156,7 +160,7 @@ The information we collect includes:
 
 * _Device Data._ We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+# **2\. HOW DO WE PROCESS YOUR INFORMATION?**
 
   
 
