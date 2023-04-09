@@ -28,7 +28,7 @@ This privacy notice for STICKnoLOGIC LLC (doing business as STICKnoLOGIC) ("**ST
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _**[**_table of contents_**](#toc)**_ below to find the section you are looking for._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _**[**_table of contents_**](#TABLE OF CONTENT)**_ below to find the section you are looking for._**
 
   
 
@@ -66,7 +66,7 @@ Want to learn more about what STICKnoLOGIC does with any information we collect?
 
   
 
-**TABLE OF CONTENTS**
+# **TABLE OF CONTENTS**
 
   
 
